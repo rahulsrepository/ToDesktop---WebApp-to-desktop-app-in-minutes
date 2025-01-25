@@ -1,4 +1,4 @@
-# ToDesktop---WebApp-to-desktop-app-in-minutes
+# ToDesktop-WebApp-to-desktop-app-in-minutes
 Overview
 ToDesktop Clone is a web-based application designed to mimic the core functionalities of the ToDesktop platform. This project aims to provide a user-friendly interface that allows users to manage and organize their desktop-like environment seamlessly through the browser.
 
